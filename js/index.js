@@ -15,14 +15,11 @@ function billingFunction() {
         let y = document.getElementById("billingZip").value
         
         if(a==b && x==y){
-            alert("Same same");
+            alert("Same input");
         
         }
         else{
-            alert("Different");
+            alert("Different input");
         }
-          }
-          function myFunction() {
-            alert("Hello! I am an alert box!");
-          }
+      }
     
